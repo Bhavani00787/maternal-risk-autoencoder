@@ -145,5 +145,3 @@ This project demonstrates a workflow combining autoencoder-based dimensionality 
 ## Author
 
 B.Tech Computer Science and Engineering — Artificial Intelligence and Machine Learning
-
-*Add your name and academic details here if required.*
